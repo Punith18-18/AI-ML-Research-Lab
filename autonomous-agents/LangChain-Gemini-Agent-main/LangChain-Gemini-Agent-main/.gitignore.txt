@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Environment variables file (contains API keys)
+.env
+
+# Output files from your save_tool
+research_output.txt
+
+# VS Code specific files (optional, but good practice)
+.vscode/
